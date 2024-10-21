@@ -1,0 +1,112 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "Ruby had 18 books and donated 15 books. How many books are left with Ruby?",
+      "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q2",
+      "question": "Ruby had 20 toys. She donated 10 toys. How many toys are left with Ruby?",
+      "options": [
+          "8",
+          "10",
+          "11",
+          "9"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q3",
+      "question": "Ruby had 22 pairs of shoes. She donated 11 pairs. How many pairs of shoes are left with Ruby?",
+      "options": [
+          "13",
+          "12",
+          "10",
+          "11"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q4",
+      "question": "Helping Hands Club collected 19 blankets. They donated 17 blankets. How many blankets are left?",
+      "options": [
+          "2",
+          "3",
+          "4",
+          "6"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q5",
+      "question": "The club had 34 craft kits and donated 31 craft kits. How many craft kits are left with them?",
+      "options": [
+          "4",
+          "2",
+          "5",
+          "3"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q6",
+      "question": "Helping Hands Club had 39 teddy bears. They donated 27 teddy bears. How many teddy bears are left with them?",
+      "options": [
+          "10",
+          "13",
+          "11",
+          "12"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q7",
+      "question": "Ruby had 29 school bags. She donated 18 school bags. How many school bags are left with Ruby?",
+      "options": [
+          "11",
+          "10",
+          "12",
+          "9"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q8",
+      "question": "Ruby’s Helping Hands Club collected 25 coats. They donated 5 coats. How many coats are left?",
+      "options": [
+          "19",
+          "20",
+          "17",
+          "18"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q9",
+      "question": "Club had 32 pairs of gloves. They donated 11 pairs. How many pairs of gloves are left?",
+      "options": [
+          "16",
+          "18",
+          "19",
+          "21"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q10",
+      "question": "The club had 41 pencils. They donated 30 pencils. How many pencils are left with them?",
+      "options": [
+          "10",
+          "12",
+          "11",
+          "13"
+      ],
+      "correct": 2
+  }
+]
